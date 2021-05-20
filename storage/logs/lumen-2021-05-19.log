@@ -1,0 +1,96 @@
+[2021-05-19 20:03:39] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
+[2021-05-19 20:03:53] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
+[2021-05-19 20:16:11] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
+[2021-05-19 20:16:11] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
+[2021-05-19 20:16:12] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
+[2021-05-19 20:16:45] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
+[2021-05-19 20:17:49] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
+[2021-05-19 20:18:18] local.ERROR: Call to undefined method Laravel\Lumen\Routing\Router::pust() {"exception":"[object] (Error(code: 0): Call to undefined method Laravel\\Lumen\\Routing\\Router::pust() at C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php:261)
+[stacktrace]
+#0 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(95): Illuminate\\Support\\Facades\\Facade::__callStatic('pust', Array)
+#1 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#2 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\illuminate\\support\\Facades\\Facade.php(261): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#3 C:\\Projects\\MRJG\\mrjg_admin_backend\outes\\web.php(96): Illuminate\\Support\\Facades\\Facade::__callStatic('group', Array)
+#4 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(113): require('C:\\\\Projects\\\\MRJ...')
+#5 C:\\Projects\\MRJG\\mrjg_admin_backend\\vendor\\laravel\\lumen-framework\\src\\Routing\\Router.php(62): {closure}(Object(Laravel\\Lumen\\Routing\\Router))
+#6 C:\\Projects\\MRJG\\mrjg_admin_backend\\bootstrap\\app.php(114): Laravel\\Lumen\\Routing\\Router->group(Array, Object(Closure))
+#7 C:\\Projects\\MRJG\\mrjg_admin_backend\\public\\index.php(14): require('C:\\\\Projects\\\\MRJ...')
+#8 {main}
+"} 
